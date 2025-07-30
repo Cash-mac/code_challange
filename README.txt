@@ -11,6 +11,7 @@ import:
 pygame-ce 2.5.5
 requests
 
+The code is very unoptimized, but it should work just fine.
 Code Copyright Luke Reneer
 
 Font Source:

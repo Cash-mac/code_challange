@@ -1,12 +1,15 @@
 
-Welcome to my coding challange submission.
+Welcome to my coding challenge submission.
 Run 'main.py' to play the game.
-click the PLAY buttom and EASY or HARD, and then type in the letters that you think fill the word.
+Click the PLAY button and EASY or HARD, and then type in the letters that you think fill the word.
 Thanks for playing!
 
 This project uses the https://random-word-api.vercel.app/ API.
 If it doesn't work, then the code picks a different word.
-The enviroment needs to have pygame-ce installed.
+ENVIRONMENT
+import:
+pygame-ce 2.5.5
+requests
 
 Code Copyright Luke Reneer
 
